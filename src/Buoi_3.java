@@ -63,6 +63,8 @@ public class Buoi_3 {
         String str6 = "200";
         int so6 = Integer.parseInt(str6); // ép từ chuỗi sang số
 
+        //grgr
+
     }
 }
 
